@@ -23,6 +23,6 @@ npm run dev
 # �������Ի���
 npm run build:stage
 
-# ������������
+# ������������1
 npm run build:prod
 ```
