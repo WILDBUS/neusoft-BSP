@@ -1,0 +1,10 @@
+
+`
+java:S3252K"JUse static access with "org.apache.commons.lang3.StringUtils" for "EMPTY".(„›ÎÕ
+<
+java:S1659l"!Declare "pos" on a separate line.(£Ÿ˜Òÿÿÿÿÿ
+[
+java:S3027p"FPut single-quotes around '%' to use the faster "indexOf(char)" method.(“–™0
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(ÜÏÙøÿÿÿÿ
+O	java:S106•"9Replace this use of System.out or System.err by a logger.(ÛØÅ
+O	java:S106–"9Replace this use of System.out or System.err by a logger.(¬£¬æ

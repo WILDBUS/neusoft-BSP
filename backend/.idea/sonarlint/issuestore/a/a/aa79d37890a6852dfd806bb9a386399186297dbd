@@ -1,0 +1,21 @@
+
+‰
+java:S1130ò"rRemove the declaration of thrown exception 'java.lang.UnsupportedOperationException' which is a runtime exception.(¸¿Œê
+[
+java:S3358¨"DExtract this nested ternary operation into an independent statement.(¦¶£ë
+
+java:S1130š"rRemove the declaration of thrown exception 'java.lang.UnsupportedOperationException' which is a runtime exception.(â˜›Öúÿÿÿÿ
+?
+java:S1125ç")Remove the literal "false" boolean value.(”™Ÿ
+[
+java:S3358©"DExtract this nested ternary operation into an independent statement.(–äõÃ
+[
+java:S3358§"DExtract this nested ternary operation into an independent statement.(ñÈç“
+‰
+java:S1130‡"rRemove the declaration of thrown exception 'java.lang.UnsupportedOperationException' which is a runtime exception.(”œ
+?
+java:S1125á")Remove the literal "false" boolean value.(”™Ÿ
+?
+java:S1125Û")Remove the literal "false" boolean value.(”™Ÿ
+?
+java:S1125í")Remove the literal "false" boolean value.(”™Ÿ

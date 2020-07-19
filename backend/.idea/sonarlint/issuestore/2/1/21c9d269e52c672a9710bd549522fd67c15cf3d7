@@ -1,0 +1,10 @@
+
+E
+java:S1066R"/Merge this if statement with the enclosing one.(æûùÁ
+`	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(ˆ¨ýæøÿÿÿÿ
+œ
+java:S1186:"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(û’Ÿ’ýÿÿÿÿ
+e
+java:S3252"OUse static access with "org.apache.commons.lang3.StringUtils" for "isNotBlank".(Àôð¾
+k
+java:S3252‹"OUse static access with "org.apache.commons.lang3.StringUtils" for "isNotBlank".(‹‰äøýÿÿÿÿ

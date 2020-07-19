@@ -1,0 +1,13 @@
+
+h
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(’¡®ˆ
+t
+java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(õè„‘ıÿÿÿÿ
+f
+java:S32525"KUse static access with "org.apache.commons.lang3.StringUtils" for "equals".(ôï¼üÿÿÿÿ
+f
+java:S32525"KUse static access with "org.apache.commons.lang3.StringUtils" for "equals".(ôï¼üÿÿÿÿ
+f
+java:S3252<"KUse static access with "org.apache.commons.lang3.StringUtils" for "equals".(Õàû¯ıÿÿÿÿ
+f
+java:S3252C"KUse static access with "org.apache.commons.lang3.StringUtils" for "equals".(˜ş“Çùÿÿÿÿ

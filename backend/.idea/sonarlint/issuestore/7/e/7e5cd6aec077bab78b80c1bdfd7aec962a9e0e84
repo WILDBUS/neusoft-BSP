@@ -1,0 +1,12 @@
+
+[	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(ïšëí
+m
+java:S3252g"WUse static access with "org.apache.commons.lang3.StringUtils" for "substringAfterLast".(ð³±Ò
+[	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(œ²âý
+[	java:S112`"FDefine and throw a dedicated exception instead of using a generic one.(•Õ¡º
+[
+java:S30271"FPut single-quotes around '_' to use the faster "indexOf(char)" method.(ŠÛÁV
+i
+java:S3252e"SUse static access with "org.apache.commons.lang3.StringUtils" for "substringAfter".(Âì–ò
+@
+java:S54119"*Use the primitive boolean expression here.(·Ê¬×

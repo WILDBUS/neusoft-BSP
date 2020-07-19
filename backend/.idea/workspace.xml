@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f05c43ee-cba1-4678-ba74-6c47d7615081" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1eqsmMLHVUE5FzbKDo70ZQlYo1f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.EcommerceApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ecommerce" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ecommerce" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EcommerceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.EcommerceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JeeThinkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ecommerce" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jeethink.JeeThinkApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EcommerceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f05c43ee-cba1-4678-ba74-6c47d7615081" name="Default Changelist" comment="" />
+      <created>1595060615270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595060615270</updated>
+      <workItem from="1595060617960" duration="552000" />
+      <workItem from="1595061182570" duration="118000" />
+      <workItem from="1595061314551" duration="769000" />
+      <workItem from="1595062097115" duration="161000" />
+      <workItem from="1595062339016" duration="87000" />
+      <workItem from="1595062442016" duration="11758000" />
+      <workItem from="1595138212384" duration="12493000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="117" width="428" height="589" key="#com.intellij.ide.util.MemberChooser" timestamp="1595147130720">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="117" width="428" height="589" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1595147130720" />
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595147007190">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595147007190" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1595062606194">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595062606194" />
+    <state width="1478" height="568" key="GridCell.Tab.0.bottom" timestamp="1595149672942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="568" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595149672942" />
+    <state width="1478" height="568" key="GridCell.Tab.0.center" timestamp="1595149672942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="568" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595149672942" />
+    <state width="1478" height="568" key="GridCell.Tab.0.left" timestamp="1595149672941">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="568" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595149672941" />
+    <state width="1478" height="568" key="GridCell.Tab.0.right" timestamp="1595149672942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="568" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595149672942" />
+    <state width="1478" height="568" key="GridCell.Tab.1.bottom" timestamp="1595149672942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="568" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595149672942" />
+    <state width="1478" height="568" key="GridCell.Tab.1.center" timestamp="1595149672942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="568" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595149672942" />
+    <state width="1478" height="568" key="GridCell.Tab.1.left" timestamp="1595149672942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="568" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595149672942" />
+    <state width="1478" height="568" key="GridCell.Tab.1.right" timestamp="1595149672942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="568" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595149672942" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1595138827244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1595138827244" />
+  </component>
+</project>

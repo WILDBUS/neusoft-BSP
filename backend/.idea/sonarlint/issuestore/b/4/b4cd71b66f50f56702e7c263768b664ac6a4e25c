@@ -1,0 +1,21 @@
+
+y
+java:S14883"^Immediately return this expression instead of assigning it to the temporary variable "result".(ô§­éûÿÿÿÿ
+
+java:S1130"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(´Çİùÿÿÿÿ
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(²öÁ³
+‰
+java:S1130$"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(é»ä¥
+‰
+java:S11301"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.( ßëñ
+D
+java:S19053")Remove this unnecessary cast to "Object".(ô§­éûÿÿÿÿ
+¦
+java:S1130J"ŠRemove the declaration of thrown exception 'org.springframework.beans.factory.NoSuchBeanDefinitionException' which is a runtime exception.(åì×Æøÿÿÿÿ
+¦
+java:S1130U"ŠRemove the declaration of thrown exception 'org.springframework.beans.factory.NoSuchBeanDefinitionException' which is a runtime exception.(ı¾ÍÀıÿÿÿÿ
+¦
+java:S1130b"ŠRemove the declaration of thrown exception 'org.springframework.beans.factory.NoSuchBeanDefinitionException' which is a runtime exception.(™úãİüÿÿÿÿ
+D
+java:S1172n".Remove this unused method parameter "invoker".(¢ÈÎ

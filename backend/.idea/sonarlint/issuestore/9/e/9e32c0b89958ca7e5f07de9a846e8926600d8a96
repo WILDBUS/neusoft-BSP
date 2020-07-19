@@ -1,0 +1,37 @@
+
+U
+java:S1155•">Use isEmpty() to check whether the collection is empty or not.(ÿÁˆ
+f
+java:S3252»"JUse static access with "org.apache.commons.lang3.StringUtils" for "EMPTY".(«´Ÿıÿÿÿÿ
+Z
+java:S1155»">Use isEmpty() to check whether the collection is empty or not.(„ğ‹“øÿÿÿÿ
+f
+java:S3252·"OUse static access with "org.apache.commons.lang3.StringUtils" for "capitalize".(¬¦¸·
+D
+java:S1125»"(Remove the literal "true" boolean value.(„ğ‹“øÿÿÿÿ
+o
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒù¿w
+D
+java:S1125é"(Remove the literal "true" boolean value.(ğºãÅıÿÿÿÿ
+p
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ò åÛ
+u
+java:S2293ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯¬­ÿÿÿÿÿ
+=
+java:S1075Í"&Remove this hard-coded path-delimiter.(ÁàŞÈ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ùöÑıÿÿÿÿ
+u
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯¬­ÿÿÿÿÿ
+A
+java:S1905ÿ"*Remove this unnecessary cast to "SysMenu".(·€ÄÓ
+k
+java:S3252¡"OUse static access with "org.apache.commons.lang3.StringUtils" for "capitalize".(›¾ò¦ûÿÿÿÿ
+A
+java:S1905"*Remove this unnecessary cast to "SysMenu".(ßª‘ÿ
+D
+java:S1125ö"(Remove the literal "true" boolean value.(ğºãÅıÿÿÿÿ
+A
+java:S1905·"*Remove this unnecessary cast to "SysMenu".(·€ÄÓ
+A
+java:S1905­"*Remove this unnecessary cast to "SysMenu".(ßª‘ÿ
